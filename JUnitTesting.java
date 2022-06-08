@@ -2,7 +2,7 @@ package testpro;
 
 public class JUnitTesting{
 	public int square(int x) {
-		return x*x;
+		return x*x*x;
 	}
 	public int countA(String word) {
 		int count=0;
