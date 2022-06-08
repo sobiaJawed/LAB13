@@ -9,8 +9,8 @@ class squareTest {
 	@Test
 	void test() {
 		JUnitTesting obj=new JUnitTesting();
-		int output=obj.square(5);
-		assertEquals(125,output);
+		int output=obj.square(2);
+		assertEquals(4,output);
 	}
 
 }
